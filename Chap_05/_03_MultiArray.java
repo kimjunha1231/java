@@ -37,5 +37,12 @@ public class _03_MultiArray {
 
         // A5에 접근하려면?
         // System.out.println(seats2[0][4]);
+
+        // 3차원 배열 만들기
+        Stirng[][][] marray =new String[][][]{
+            {{}, {}, {}},
+            {{}, {}, {}},
+            {{}, {}, {}}
+        };
     }
 }
